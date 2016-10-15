@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I am nedim gabela
+i am 13 y/o
